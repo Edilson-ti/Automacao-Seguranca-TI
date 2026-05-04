@@ -23,5 +23,10 @@ Ambientes corporativos que necessitam:
 - Prevenção de incidentes (ex: ransomware)
 - Auditoria e rastreabilidade de dados
 
+- ## 📁 Scripts disponíveis
+
+- monitoramento-exclusao.ps1 → Detecta exclusões em massa de arquivos  
+- relatorio-arquivos-deletados.ps1 → Gera relatório de auditoria de arquivos deletados  
+
 ## 👨‍💻 Autor
 Edilson Gomes Pereira
