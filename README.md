@@ -1,10 +1,5 @@
 # Automação e Segurança em Ambiente Windows (PowerShell)
 
-```markdown
-![PowerShell](https://img.shields.io/badge/PowerShell-Automação-blue)
-![Security](https://img.shields.io/badge/Security-Monitoramento-red)
-![Windows](https://img.shields.io/badge/Windows-Server-green)
-
 Scripts desenvolvidos para automação de rotinas de segurança e monitoramento em ambientes corporativos Windows.
 
 ## 🎯 Objetivo
